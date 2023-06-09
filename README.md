@@ -1,5 +1,6 @@
 
-deployed link - <a href="saurabhtypingtest.netlify.app" target="_blank">Netlify</a>
+deployed link - <a href="https://saurabhtypingtest.netlify.app/" target="_blank">Netlify</a>
+__[Netlify](https://saurabhtypingtest.netlify.app/)__
 
 
 
