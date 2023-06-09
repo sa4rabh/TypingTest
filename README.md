@@ -1,5 +1,5 @@
 
-**Netlify -- (saurabhtypingtest.netlify.app) **
+deployed link - ** [Netlify](saurabhtypingtest.netlify.app) **
 
 
 
